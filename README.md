@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Sourav Kumar 👋
 
-<!--
-**souravjaiswal7739/souravjaiswal7739** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Android Developer with 4+ years of experience building Android applications.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Kotlin
+- Java
+- Android SDK
+- XML Layouts
+- MVVM Architecture
+- REST APIs
+- Retrofit
+- SQLite
+- Firebase
+
+## Currently Learning
+
+- Jetpack Compose
+- Spring Boot
+- Docker
+- Mobile DevOps
+- System Design
+
+## Interested In
+
+- Android Engineering
+- Backend Development
+- Full Stack Mobile Development
