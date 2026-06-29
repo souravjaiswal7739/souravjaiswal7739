@@ -1,6 +1,6 @@
 # Hi, I'm Sourav Kumar 👋
 
-Android Developer with 4+ years of experience building Android applications.
+Android Engineer with 4+ years of experience building scalable and production-ready mobile applications.
 
 ## Tech Stack
 
@@ -13,6 +13,7 @@ Android Developer with 4+ years of experience building Android applications.
 - Retrofit
 - SQLite
 - Firebase
+- Git & GitHub
 
 ## Currently Learning
 
@@ -22,8 +23,14 @@ Android Developer with 4+ years of experience building Android applications.
 - Mobile DevOps
 - System Design
 
-## Interested In
+## What I Build
 
-- Android Engineering
-- Backend Development
-- Full Stack Mobile Development
+- Real-time Chat Applications
+- Video Calling Applications
+- Contact Sync Systems
+- API Driven Mobile Applications
+- Offline First Android Apps
+
+## Career Goal
+
+To become a Full Stack Mobile Engineer capable of building scalable products end-to-end.
